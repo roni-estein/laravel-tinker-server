@@ -1,5 +1,8 @@
 # Laravel Tinker Server
 
+*** careful using this version!! I checked the porject name to roni-estien/laravel-tinker-server so I could pull in a working copy, beyondcode would always default back to the original no matter how I sim-linked it. *** 
+
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/beyondcode/laravel-tinker-server.svg?style=flat-square)](https://packagist.org/packages/beyondcode/laravel-tinker-server)
 [![Build Status](https://img.shields.io/travis/beyondcode/laravel-tinker-server/master.svg?style=flat-square)](https://travis-ci.org/beyondcode/laravel-tinker-server)
 [![Quality Score](https://img.shields.io/scrutinizer/g/beyondcode/laravel-tinker-server.svg?style=flat-square)](https://scrutinizer-ci.com/g/beyondcode/laravel-tinker-server)
